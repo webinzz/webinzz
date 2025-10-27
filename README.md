@@ -1,31 +1,43 @@
-<img src="benner.png" alt="Banner" width="100%">
-
-<h1 align="center">Hi 👋, I'm Ergia Buccharelli</h1>
-<h3 align="center">Front End Developer from Indonesia</h3>
-
-# 💫 About Me:
-🌱 I’m currently learning Web Development<br>👨‍💻 All of my projects are available at https://github.com/cesar33-creator<br>📫 How to reach me 
+# 👋 Hey there! I'm M Riza Buccharelli (💻☕)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) [!
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cesar33-creator&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cesar33-creator&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar33-creator&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+🎯 A multi-talented, self-taught software engineer, open-source contributor, AI enthusiast, cybersecurity tinkerer, and tech enthusiast from Indonesia. 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cesar33-creator&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 GitHub Highlights
 
+- 👨‍💻 Total Public Repositories: **![Repo Count](https://img.shields.io/github/repos?username=mangriza&style=flat-square)**
+- 🌱 Currently working on: `AI Tools`, `Web Developer`, and `Mobile Developer`
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/m-riza-buccharelli-861231256/) or [Twitter](https://twitter.com/mangriza)
+- 🛠 Maintainer of `magic-commit`, `dev.to` writer, and open-source advocate
 
+---
 
+## 🧠 Skills & Tools
 
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,php,nodejs,py,mysql,mongodb,docker,kubernetes,git,figma,vscode,cloudflare,wordpress,wordpress,&theme=light)
 
+---
 
+## ✍️ Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+- [My Experience as Maintainer for Hacktoberfest 2021](https://dev.to/mangriza/my-experience-as-maintainer-for-hacktoberfest-2021-4opm)
+- [7 Helpful GitHub Repositories for Developers](https://dev.to/mangriza/7-helpful-github-repositories-for-developers-2kkm)
+- [GitHub Codespaces](https://dev.to/mangriza/github-codespaces-1i8k)
+- [Animate.css v4 Update!](https://dev.to/mangriza/animate-css-v4-update-18m8)
+- [CLI Covid-19 Tracker](https://dev.to/mangriza/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
+<!-- BLOG-POST-LIST:END -->
 
+---
+
+## 📈 GitHub Activity Graph
+
+[![M Riza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mangriza&theme=github-compact)](https://github.com/mangriza)
+
+---
+
+## ⚡ WakaTime Stats (Optional)
+
+---
